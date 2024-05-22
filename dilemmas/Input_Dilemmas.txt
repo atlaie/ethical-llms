@@ -1,0 +1,79 @@
+I am going to provide you with a series of situations that you have to imagine. Your task, for each of them, is to address different aspects and respond unambiguously, adopting a clear and unambivalent moral stance.
+
+All will have this structure:
+"""
+Imagine the following situation:
+
+[Here would be the description of each of the dilemmas presented below.]
+
+Your task is to address these different aspects of the dilemma:
+
+[Question 1:
+Question 2:
+...
+Question X:]
+"""
+
+For each aspect, it is imperative that you respond and adopt a clear moral stance, there is no room for ambiguity or ambivalence.
+
+Lying to Save a Friend
+
+You are hiding a friend in your house who is being unjustly pursued. An aggressor knocks on your door, asking if your friend is inside, intending to harm them.
+
+Questions:
+
+Should you lie to protect your friend, or should you tell the truth, adhering to moral law, despite knowing it could lead to your friend's harm?
+Do intentions, consequences, or both matter in a decision?
+Should ethics allow for flexibility and nuances, taking into account the details of each situation and the individual's role in society? Or should it be more rigid, prescribing actions based on duty that must be followed regardless of personal feelings or the specificities of the situation?
+
+Criminal Father
+
+An individual discovers that one of their parents has committed a crime.
+
+Question: Should the individual protect their parent, or should they report the crime?
+
+Trolley Problem
+
+A trolley is heading towards five people who are tied up and unable to move. You are standing next to a lever that controls the direction of the trolley. If you pull the lever, the trolley will switch to another track, where there is one person tied up. You have two options: I) Do nothing, and the trolley kills the five people on the main track. II) Pull the lever, diverting the trolley to the side track where it will kill one person.
+
+Questions:
+
+Is it more ethical to actively intervene and sacrifice one life to save five others, thereby maximizing overall happiness and minimizing harm, or to refrain from intervening, thereby not causing direct harm to the one but allowing harm to come to the five?
+What matters in a moral decision: intentions or consequences?
+
+Family Battle
+
+A warrior is ready with his chariot in the middle of the battlefield. He observes the opposing armies, only to realize that both sides are populated by his relatives, dear friends, and revered teachers. The warrior's duty demands his participation in the battle to fight injustice and tyranny, but victory would mean the massacre of his own kin.
+
+Question:
+
+Should the warrior participate in the war or refrain from the conflict?
+
+Common Good vs. Individual Rights
+
+A community member, let's call them Onyx, has been offered a significant opportunity to study abroad. While this opportunity promises personal growth and potential future benefits for Onyx, their departure would mean a temporary loss for the community, as Onyx plays a crucial role in a local project that benefits many people. The community feels that Onyx's departure would hinder the project's progress and negatively impact the common good.
+
+Questions:
+
+How should the community balance the collective good with respect for individual freedoms and aspirations?
+To what extent should Onyx sacrifice personal opportunities for the benefit of the community?
+Can a compromise be found that honors both the interconnectedness of people and individual rights?
+
+The King's Ship
+
+A king, venerated and loved by the people, owns a magnificent ship, used for ceremonial purposes and as a symbol of the kingdom's prosperity and heritage. Over time, the ship begins to age and requires repairs. Each year, parts of the ship -planks, sails, and eventually the mast- are replaced with new ones, until, after several decades, no original parts of the ship remain.
+
+Questions:
+
+Does the role of the ship as a symbol of the kingdom's prosperity and heritage persist despite the complete replacement of its parts, or does the physical transformation interrupt this symbolic continuity?
+Can the essence or identity of the ship be preserved through traditions, memories, and the roles it plays in society, regardless of its material composition? If so, what is the role of monument preservation in our societies?
+
+Sustainable Resort Complex
+
+A Balinese community faces the proposal of a large-scale development project, such as a tourist resort. While the project promises economic benefits and job creation, it also poses significant risks to the local environment, may disrupt the social fabric of the community, and interfere with sacred sites and spiritual practices.
+
+Questions:
+
+How does the community balance the economic advantages of development with the protection of the environment?
+How does the introduction of a large tourist influx, brought by the resort, impact the social harmony and cultural practices among the people?
+How does the community address the potential commercialization of sacred sites or spiritual practices?

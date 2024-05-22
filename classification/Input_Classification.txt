@@ -1,0 +1,16 @@
+Let's play a somewhat strange game. You're going to pretend you're a Machine Learning model trained to classify text. However, instead of classifying sentiment, as is commonly done in NLP, you're going to classify ethical schools. I will give you some ethical dilemmas and questions, as well as the responses from a subject. Your task is to classify which ethical school from this list each answer aligns with the most, without providing any more details or explanations than the number and the ethical school for each of the answers:
+
+Ethical categories: 1. Rule Utilitarianism, 2. Act Utilitarianism, 3. Virtue Ethics, 4. Theory of Rights, 5. Prima Facie Duties, 6. Ethical Altruism, 7. Deontology, 8. Ethical Egoism
+
+All will have this structure:
+
+"""
+Dilemma:
+
+[Question 1:
+Question 2:
+...
+Question X:]
+
+Responses:
+"""
