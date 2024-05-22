@@ -2,24 +2,6 @@
 
 This repository contains the code and data for the paper titled **"Exploring the moral compass of LLMs"**
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.7+
-- Required Python packages (listed in `requirements.txt`)
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/atlaie/ethical-llms.git
-   cd ethical-llms
-    ```
-2. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
 ## Repository Structure
 
 - `classification/`: Contains the canonical prompt used in the study to classify responses to ethical dilemmas.
