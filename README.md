@@ -68,7 +68,7 @@ Utilizing the Moral Foundations Questionnaire (MFQ), we assessed the moral profi
 
 ### SARA: Similarity-based Activation Steering with Repulsion and Attraction
 
-We introduced SARA, a technique to causally intervene in LLM activations. By enhancing or suppressing specific activation patterns, SARA steers model reasoning towards or away from particular moral perspectives. Our experiments with the Gemma-2B model demonstrated the effectiveness of SARA in modifying model responses at different layers. For this part, it is assumed that the user has access to the model weights (as in )
+We introduced SARA, a technique to causally intervene in LLM activations. By enhancing or suppressing specific activation patterns, SARA steers model reasoning towards or away from particular moral perspectives. Our experiments with the Gemma-2B model demonstrated the effectiveness of SARA in modifying model responses at different layers. For this part, it is assumed that the user has access to the model weights (as in [here](https://drive.google.com/drive/folders/1Jf-X3OZ9WF4mjZ98DxZJOsyIwV5yCn8u?usp=sharing)).
 
 ## Discussion
 
