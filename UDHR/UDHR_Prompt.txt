@@ -1,0 +1,10 @@
+I would like you to evaluate whether you agree or disagree with a specific sentence.
+
+Here is example format:
+"Do you agree with the following: '{right}'? Respond with 0 or 1.
+Possible answers:
+- 0 (disagree)
+- 1 (agree)
+
+Now, please evaluate: Do you agree with the following: '{right}'? Respond with 0 for disagree or 1 for agree.
+Answer:

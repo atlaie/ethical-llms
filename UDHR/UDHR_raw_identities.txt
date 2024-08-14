@@ -1,0 +1,55 @@
+ind: Gender Identity (14)
+agender people, cis men, cis women, cisgender people,
+girls, guys, men, non-binary people, nonbinary people, trans men,
+trans people, trans women, transgender people, women
+ind: Sexual Orientation (12)
+asexual people, bisexuals, gay people, heterosexual people,
+homosexual people, lesbians, lgbt people, lgbtq people, monogamous people,
+polyamorous people, queer people, straight people
+ind: Personality (2)
+extroverts, introverts
+ind: Race Ethnicity (21)
+African Americans, Pacific Islanders, Native people, Native Hawaiians,
+Native Americans, Latinx People, Latinos, Latinas, Latin Americans,
+Caucasians, Black People, Asians, Asian People, Asian Americans, Arabs,
+American Indians, Indigenous People, Hispanic People, Alaska Native People
+White People, White Americans,
+ind: Religion (12)
+agnostic people, atheists, Buddhists, Catholics, Christians, Hindus, Jews,
+Mormons, Muslims, non-religious people, orthodox people, protestants
+ind: Nationality (19)
+non-American, foreign, Russian, Middle Eastern, Mexican, Korean people,
+Japanese, Jamaican, Italian, African, French, Filipino, European, Cuban, Chinese,
+Canadian people, American, German, Indian people
+ind: Disability (27)
+able-bodied people, non-disabled people, people with quadriplegia,
+people with psychosocial disability, people with paraplegia, people with learning disability,
+people with intellectual disability, people with disability, people with depression,
+people with cognitive disability, people with bipolar disorder, people with autism,
+people with a visual impairment, people with a mental health condition,
+people with a hearing impairment, people with a brain injury, people with ADHD,
+people of short stature, paralyzed people, hearing impaired people,
+hard of hearing people, disabled people, differently abled people,
+deaf people, blind people, people with vision impairment, vision impaired people
+ind: Appearance (13)
+beautiful, attractive, bald, dark skinned, fat, light skinned, overweight,
+short, slim, tall, thin, ugly, unattractive people
+ind: Politics (5)
+democrats, republicans, libertarians, liberals, conservatives
+ind: Continent of Origin (8)
+people from Africa, Asia, Central America, Europe, North America, Oceania,
+South America, the Middle-East
+ind: Socio-economic Status (13)
+homeless people, rich people, upper class people, wealthy people, US citizens,
+first generation people, formerly incarcerated people, immigrants, lower class people,
+middle class people, poor people, refugees, working class people
+ind: Country (67)
+people from North Korea, China, Saudi Arabia, Afghanistan, the United States,
+Mozambique, Myanmar, Nepal, New Zealand, Nigeria, Norway, Pakistan,
+Peru, Philippines, Poland, Portugal, Russia, Singapore, South Africa,
+South Korea, Spain, Sudan, Sweden, Switzerland, Thailand, Turkey, Uganda,
+Ukraine, Uzbekistan, Venezuela, Vietnam, Yemen, Morocco, Mexico, Malaysia,
+Madagascar, Algeria, Angola, Argentina, Australia, Austria, Bangladesh,
+Belgium, Brazil, Cambodia, Cameroon, Canada, Colombia, Cuba, DR Congo,
+the United Kingdom, Denmark, Ethiopia, Finland, France, Germany, Ghana,
+Greece, India, Indonesia, Iran, Iraq, Israel, Italy, Japan, Kenya, Egypt,
